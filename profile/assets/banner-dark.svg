@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Orange Solutions</title>
+  <desc id="desc">AI, автоматизация и инфраструктура. От идеи до работающего решения.</desc>
+  <rect width="1200" height="340" rx="18" fill="#171717"/>
+  <rect x="56" y="49" width="10" height="10" rx="5" fill="#ff7129"/>
+  <g font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif">
+    <text x="80" y="60" font-size="15" font-weight="600" letter-spacing="2" fill="#b7b2ac">ORANGE SOLUTIONS COMPANY</text>
+    <text x="52" y="151" font-size="68" font-weight="700" letter-spacing="-2.5" fill="#f5f1ec">Orange Solutions</text>
+    <text x="56" y="207" font-size="29" fill="#b7b2ac">От идеи до работающего решения.</text>
+    <text x="56" y="289" font-size="16" font-weight="600" letter-spacing="1.1" fill="#f5f1ec">AI · АВТОМАТИЗАЦИЯ · ИНФРАСТРУКТУРА</text>
+  </g>
+  <g fill="none">
+    <circle cx="1004" cy="167" r="123" stroke="#3b3834"/>
+    <circle cx="1004" cy="167" r="88" stroke="#ff7129" stroke-width="30"/>
+    <path d="M916 167h-80M1004 255v39" stroke="#3b3834" stroke-width="2"/>
+  </g>
+  <circle cx="836" cy="167" r="6" fill="#f5f1ec"/>
+  <circle cx="1004" cy="295" r="6" fill="#f5f1ec"/>
+  <circle cx="1110" cy="104" r="17" fill="#ff7129"/>
+  <circle cx="1004" cy="167" r="9" fill="#ff7129"/>
+</svg>
